@@ -6,7 +6,7 @@ import BlogPost from "./pages/BlogPost";
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL || "/"}> 
+    <Router basename={process.env.PUBLIC_URL || "/"}>
       <div>
         <Navbar />
         <Routes>
