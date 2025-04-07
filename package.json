@@ -1,8 +1,8 @@
 {
-  "name": "react-blog",
+  "name": "my-blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hao-317.github.io/React-Blog/",
+  "homepage": "https://hao-317.github.io/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
